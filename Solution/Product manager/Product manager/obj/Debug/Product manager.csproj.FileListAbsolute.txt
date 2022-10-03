@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\bin\Debug\Product manager.exe.config
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\bin\Debug\Product manager.exe
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\bin\Debug\Product manager.pdb
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product manager.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product_manager.Form1.resources
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product_manager.Properties.Resources.resources
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product manager.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product manager.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product manager.exe
+C:\Users\Utente\Desktop\ITIS-Majo\Solution\Product manager\Product manager\obj\Debug\Product manager.pdb
