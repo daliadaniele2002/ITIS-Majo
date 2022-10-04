@@ -16,5 +16,18 @@ namespace Product_manager
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            TtypeComboBox.SelectedIndex = 0;
+        }
+
+        private void discountTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if((Keys)e.KeyChar < Keys.D0 || (Keys)e.KeyChar > Keys.D9)
+            {
+                e.Handled = true;
+            }
+        }
     }
 }
